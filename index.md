@@ -1,7 +1,3 @@
----
-title: Xiaochuan Tang
----
-
 ## PROFILE
 Associate Professor, School of Computer Science, Chengdu University of Technology. 
 He receive PhD degree from University of Electronic Science and Technology of China in 2018.    
