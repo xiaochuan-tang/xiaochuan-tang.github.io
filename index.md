@@ -5,10 +5,10 @@ Email: tangchuan@uestc.edu.cn
 
 ## RESEARCH INTERESTS
 - Machine Leaning Theory and Explainability
-- Computer Vision
+- Computer Vision and Deep Learning
+- Time Series Analysis
 - Big Data Analysis and Processing
-- Time Series
-- Geographic Information System
+- Remote Sensing and Geographic Information System
 
 ## SELECTED PUBLICATIONS
 1. Xiaochuan Tang, Yuanshun Dai, Yanping Xiang. Feature selection based on feature interactions with application to text categorization. Expert Systems with Applications, 2019, 120: 207-216.
