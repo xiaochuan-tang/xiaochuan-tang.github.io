@@ -1,6 +1,5 @@
 ## PROFILE
-Associate Professor, School of Computer Science, Chengdu University of Technology.   
-He received his Ph.D. degree from University of Electronic Science and Technology of China. He received his M.S. degree from Northeasten University.    
+Associate Professor, School of Computer Science, Chengdu University of Technology. He received his Ph.D. degree from University of Electronic Science and Technology of China. He received his M.S. degree from Northeasten University.    
 Email: tangchuan@uestc.edu.cn
 
 ## RESEARCH INTERESTS
