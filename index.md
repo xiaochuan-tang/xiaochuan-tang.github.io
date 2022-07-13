@@ -21,5 +21,5 @@ Email: tangchuan@uestc.edu.cn
 - China Postdoctoral Science Foundation
 
 ## RECENT NEWS
-[2022.07] A paper was accepted by Journal of Computer Applications, which was accomplished by a undergraduate student!  
+[2022.07] A paper was submitted, which was accomplished by a undergraduate student!  
 [2022.06] A paper was accepted by Remote Sensing!
