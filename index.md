@@ -4,6 +4,15 @@ Associate Professor, School of Computer Science, Chengdu University of Technolog
 ## CONTACT
 Email: tangchuan@uestc.edu.cn
 
+## RECENT NEWS
+- [2022.02] A new patent was submitted!
+- [2022.02] A new paper was submitted to Information Fusion! (中科院一区SCI)
+- [2022.12] A new project funding was obtained!
+- [2022.11] A new project funding was obtained!
+- [2022.11] Two new patents were submitted!
+- [2022.07] A new paper was submitted, which was accomplished by a undergraduate student!  
+- [2022.06] A new paper was accepted by Remote Sensing!
+
 ## RESEARCH INTERESTS
 - Machine Leaning Theory and Explainability
 - Computer Vision and Deep Learning
@@ -26,16 +35,7 @@ Email: tangchuan@uestc.edu.cn
 - China Postdoctoral Science Foundation
 - ......
 
-## RECENT NEWS
-- [2022.02] A new patent was submitted!
-- [2022.02] A new paper was submitted to Information Fusion! (中科院一区SCI)
-- [2022.12] A new project funding was obtained!
-- [2022.11] A new project funding was obtained!
-- [2022.11] Two new patents were submitted!
-- [2022.07] A new paper was submitted, which was accomplished by a undergraduate student!  
-- [2022.06] A new paper was accepted by Remote Sensing!
-
-##  CALL FOR CANDIDATE STUDENTS
+##  RECRUITING GRADUATE STUDENTS
 Welcome to Artificial Intelligence and Machine Learning lab (AIML). We are searching for highly-motivated graduate students, providing:
 - systematic academic training
 - publish high-level academic achievements
