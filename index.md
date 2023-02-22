@@ -39,8 +39,8 @@ Email: tangchuan@uestc.edu.cn
 ##  RECRUITING GRADUATE STUDENTS
 Welcome to Artificial Intelligence and Machine Learning lab (AIML). We are searching for highly-motivated graduate students, providing:
 - systematic academic training
-- publish high-level academic achievements
-- high-level projects
+- publish high-level papers
+- join high-level projects
 - advanced research equipments
 - competitive salary  
 Please don't hesitate to contact us! (tangchuan@uestc.edu.cn)
