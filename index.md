@@ -10,7 +10,7 @@ Email: tangchuan@uestc.edu.cn
 - [2022.12] A new project funding was obtained!
 - [2022.11] A new project funding was obtained!
 - [2022.11] Two new patents were submitted!
-- [2022.07] A new paper was submitted, which was accomplished by a undergraduate student!  
+- [2022.07] A new paper was submitted, which was accomplished by an undergraduate student!  
 - [2022.06] A new paper was accepted by Remote Sensing!
 
 ## RESEARCH INTERESTS
