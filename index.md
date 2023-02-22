@@ -43,5 +43,6 @@ Welcome to Artificial Intelligence and Machine Learning lab (AIML). We are searc
 - join high-level projects
 - advanced research equipments
 - competitive salary  
+
 Please don't hesitate to contact us! (tangchuan@uestc.edu.cn)
 
