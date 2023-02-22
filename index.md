@@ -40,5 +40,5 @@ Welcome to Artificial Intelligence and Machine Learning lab (AIML). We are searc
 - high-level projects
 - advanced equipment
 - competitive salary  
-Please don't hesitate to contact us! Email: tangchuan@uestc.edu.cn
+Please don't hesitate to contact us! tangchuan@uestc.edu.cn(tangchuan@uestc.edu.cn)
 
