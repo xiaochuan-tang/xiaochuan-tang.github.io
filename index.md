@@ -25,9 +25,20 @@ Email: tangchuan@uestc.edu.cn
 - ......
 
 ## RECENT NEWS
-[2022.02] A paper was submitted to Information Fusion! (中科院一区)
-[2022.12] A project funding was obtained!
-[2022.11] A project funding was obtained!
-[2022.11] Two patens were submitted!
-[2022.07] A paper was submitted, which was accomplished by a undergraduate student!  
-[2022.06] A paper was accepted by Remote Sensing!
+- [2022.02] A new patent was submitted!
+- [2022.02] A new paper was submitted to Information Fusion! (中科院一区)
+- [2022.12] A new project funding was obtained!
+- [2022.11] A new project funding was obtained!
+- [2022.11] Two new patens were submitted!
+- [2022.07] A new paper was submitted, which was accomplished by a undergraduate student!  
+- [2022.06] A new paper was accepted by Remote Sensing!
+
+## For Candidate Students
+Welcome to Artificial Intelligence and Machine Learning lab (AIML). We are searching for highly-motivated graduate students. We provide:
+- systematic academic training
+- publish high-level academic achievements
+- high-level projects
+- advanced equipment
+- competitive salary  
+Please don't hesitate to contact us! Email: tangchuan@uestc.edu.cn
+
