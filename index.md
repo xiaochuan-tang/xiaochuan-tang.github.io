@@ -10,16 +10,24 @@ Email: tangchuan@uestc.edu.cn
 - Remote Sensing and Geographic Information System
 
 ## SELECTED PUBLICATIONS
-1. Xiaochuan Tang, Yuanshun Dai, Yanping Xiang. Feature selection based on feature interactions with application to text categorization. Expert Systems with Applications, 2019, 120: 207-216.
-2. Xiaochuan Tang, Mingzhe Liu, Hao Zhong, Yuanzhen Ju, Weile Li, Qiang Xu. MILL: Channel attention based deep multiple instance learning for landslide recognition. ACM Transactions on Multimedia Computing， Communications and Applications, 2021, 17(2s): 76.
-3. Tang Xiaochuan, Dai Yuanshun, Sun Peng, Meng Sa, Interaction-based feature selection using Factorial Design. Neurocomputing, 2018, 281: 47-54.
-4. Xiaochuan Tang, Zihan Tu, Yu Wang, Mingzhe Liu, Dongfen Li, Xuanmei Fan. Automatic detection of coseismic landslides using a new transformer method. Remote Sensing,  2022, 14(12): 2884.
-5. Tang Xiaochuan, Dai Yuanshun, Xiang Yanping, Luo Liang. An interaction-enhanced feature selection algorithm. Proceedings of Pacific-Asia Conference on Advances in Knowledge Discovery and Data Mining, Melbourne, Australia, 2018.
+- Wang, Fang, Tang, et al. Research on emergency evaluation of landslides induced by Luding Ms 6.8 earthquake[J]. 武汉大学学报 (信息科学版), 2022.
+- Tang et al. Automatic detection of coseismic landslides using a new transformer method. Remote Sensing,  2022, 14(12): 2884.
+- Chen, Dai, Tang, et al. Removing InSAR Topography-Dependent Atmospheric Effect Based on Deep Learning. Remote Sensing, 2022, 14(17): 4171.
+- Tang et al. MILL: Channel attention based deep multiple instance learning for landslide recognition. ACM Transactions on Multimedia Computing， Communications and Applications, 2021, 17(2s): 76.
+- Tang et al. Feature selection based on feature interactions with application to text categorization. Expert Systems with Applications, 2019, 120: 207-216.
+- Tang et al. Interaction-based feature selection using Factorial Design. Neurocomputing, 2018, 281: 47-54. 
+- Tang et al. An interaction-enhanced feature selection algorithm. Proceedings of Pacific-Asia Conference on Advances in Knowledge Discovery and Data Mining, Melbourne, Australia, 2018.
 
 ## PROJECTS
 - National Key Research and Development Program of China
+- National Natural Science Foundation of China
 - China Postdoctoral Science Foundation
+- ......
 
 ## RECENT NEWS
+[2022.02] A paper was submitted to Information Fusion! (中科院一区)
+[2022.12] A project funding was obtained!
+[2022.11] A project funding was obtained!
+[2022.11] Two patens were submitted!
 [2022.07] A paper was submitted, which was accomplished by a undergraduate student!  
 [2022.06] A paper was accepted by Remote Sensing!
