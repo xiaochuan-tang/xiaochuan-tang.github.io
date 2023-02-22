@@ -28,6 +28,7 @@ Email: tangchuan@uestc.edu.cn
 - Tang et al. Feature selection based on feature interactions with application to text categorization. Expert Systems with Applications, 2019, 120: 207-216. (中科院一区SCI)
 - Tang et al. Interaction-based feature selection using Factorial Design. Neurocomputing, 2018, 281: 47-54. (中科院二区SCI)
 - Tang et al. An interaction-enhanced feature selection algorithm. Proceedings of Pacific-Asia Conference on Advances in Knowledge Discovery and Data Mining, Melbourne, Australia, 2018. (CCF推荐会议)
+- ......
 
 ## PROJECTS
 - National Key Research and Development Program of China
