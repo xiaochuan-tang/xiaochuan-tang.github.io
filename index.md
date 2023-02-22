@@ -34,11 +34,11 @@ Email: tangchuan@uestc.edu.cn
 - [2022.06] A new paper was accepted by Remote Sensing!
 
 ## For Candidate Students
-Welcome to Artificial Intelligence and Machine Learning lab (AIML). We are searching for highly-motivated graduate students. We provide:
+Welcome to Artificial Intelligence and Machine Learning lab (AIML). We are searching for highly-motivated graduate students, providing:
 - systematic academic training
 - publish high-level academic achievements
 - high-level projects
-- advanced equipment
+- advanced research equipments
 - competitive salary  
 Please don't hesitate to contact us! (tangchuan@uestc.edu.cn)
 
