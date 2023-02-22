@@ -5,8 +5,8 @@ Associate Professor, School of Computer Science, Chengdu University of Technolog
 Email: tangchuan@uestc.edu.cn
 
 ## RECENT NEWS
-- [2022.02] A new patent was submitted!
-- [2022.02] A new paper was submitted to Information Fusion! (中科院一区SCI)
+- [2023.02] A new patent was submitted!
+- [2023.02] A new paper was submitted to Information Fusion! (中科院一区SCI)
 - [2022.12] A new project funding was obtained!
 - [2022.11] A new project funding was obtained!
 - [2022.11] Two new patents were submitted!
