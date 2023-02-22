@@ -21,7 +21,7 @@ Email: tangchuan@uestc.edu.cn
 - Remote Sensing and Geographic Information System
 
 ## SELECTED PUBLICATIONS
-- Wang, Fang, Tang, et al. Research on emergency evaluation of landslides induced by Luding Ms 6.8 earthquake[J]. 武汉大学学报 (信息科学版), 2022.
+- Wang, Fang, Tang, et al. Research on emergency evaluation of landslides induced by Luding Ms 6.8 earthquake[J]. 武汉大学学报 (信息科学版), 2022. (中科院T1期刊)
 - Tang et al. Automatic detection of coseismic landslides using a new transformer method. Remote Sensing,  2022, 14(12): 2884. (中科院二区SCI)
 - Chen, Dai, Tang, et al. Removing InSAR topography-dependent atmospheric effect based on deep learning. Remote Sensing, 2022, 14(17): 4171. (中科院二区SCI)
 - Tang et al. MILL: Channel attention based deep multiple instance learning for landslide recognition. ACM Transactions on Multimedia Computing， Communications and Applications, 2021, 17(2s): 76. (CCF-B类期刊)
