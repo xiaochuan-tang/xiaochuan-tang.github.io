@@ -5,6 +5,7 @@ Associate Professor, School of Computer Science, Chengdu University of Technolog
 Email: tangchuan@uestc.edu.cn
 
 ## RECENT NEWS
+- [2023.03] A new paper was submitted to Geomatics and Information Science of Wuhan University!
 - [2023.02] A new patent was submitted!
 - [2023.02] A new paper was submitted to Information Fusion! (中科院一区SCI)
 - [2022.12] A new project funding was obtained!
