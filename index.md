@@ -15,11 +15,10 @@ Email: tangchuan@uestc.edu.cn
 - [2022.06] A new paper was accepted by Remote Sensing!
 
 ## RESEARCH INTERESTS
+- Federated Learning and Privacy Protection
 - Machine Leaning Theory and Explainability
 - Computer Vision and Deep Learning
-- Time Series Analysis
-- Big Data Analysis and Processing
-- Remote Sensing and Geographic Information System
+- Remote Sensing and Geographic Information Systems
 
 ## SELECTED PUBLICATIONS
 - Wang, Fang, Tang, et al. Research on emergency evaluation of landslides induced by Luding Ms 6.8 earthquake[J]. 武汉大学学报 (信息科学版), 2022. (中科院T1期刊)
