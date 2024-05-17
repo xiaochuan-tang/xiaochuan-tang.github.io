@@ -2,8 +2,8 @@
 Xiaochuan Tang is an Associate Professor at College of Computer Science, State Key Laboratory of Geohazard Prevention and Geoenvironment Protection (SKLGP), Chengdu University of Technology, China (CDUT). He is an Visiting Professor at University of Padova, Italy. He received his Ph.D. degree from University of Electronic Science and Technology of China (UESTC), and M.S. degree from Northeastern University. His research interest is Trustworthy Artificial Intelligence, including Explainable Deep Neural Networks, Computer Vision for Remote Sensing, Federated Learning, and AI-based Geohazard Prevention and Protection. He has served as the principal investigator (PI) for nearly 10 research projects. He has published over 20 papers and received 10 patents. He provides review service for over 10 magazines. 
 
 ## CONTACT
-Email: tangchuan@uestc.edu.cn
-LinkedIn: Xiaochuan Tang
+-Email: tangchuan@uestc.edu.cn
+-LinkedIn: Xiaochuan Tang
 
 ## RECENT NEWS
 - [2024.05] A new paper was submitted to IEEE Transactions on Geoscience and Remote Sensing! (中科院一区SCI)
