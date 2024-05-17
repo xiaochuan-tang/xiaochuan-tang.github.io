@@ -1,12 +1,18 @@
 ## PROFILE
-Associate Professor, School of Computer Science, Chengdu University of Technology. He received his Ph.D. degree from University of Electronic Science and Technology of China. He received his M.S. degree from Northeasten University.    
+Xiaochuan Tang is an Associate Professor at College of Computer Science, State Key Laboratory of Geohazard Prevention and Geoenvironment Protection (SKLGP), Chengdu University of Technology, China (CDUT). He is an Visiting Professor at University of Padova, Italy. He received his Ph.D. degree from University of Electronic Science and Technology of China (UESTC), and M.S. degree from Northeastern University. His research interest is Trustworthy Artificial Intelligence, including Explainable Deep Neural Networks, Computer Vision for Remote Sensing, Federated Learning, and AI-based Geohazard Prevention and Protection. He has served as the principal investigator (PI) for nearly 10 research projects. He has published over 20 papers and received 10 patents. He provides review service for over 10 magazines. 
 
 ## CONTACT
 Email: tangchuan@uestc.edu.cn
+LinkedIn: Xiaochuan Tang
 
 ## RECENT NEWS
+- [2024.05] A new paper was submitted to IEEE Transactions on Geoscience and Remote Sensing! (中科院一区SCI)
+- [2024.04] A newnew patent were submitted!
+- [2024.04] A new paper was submitted to Applied Soft Computing! (中科院一区SCI)
+- [2024.03] A new paper was submitted to EGU 2024
+- [2024.02] A new paper was submitted to IEEE Geoscience and Remote Sensing Letters!
+- [2024.01] A new paper was submitted to Expert Systems with Applications! (中科院一区SCI)
 - [2023.03] A new paper was submitted to Geomatics and Information Science of Wuhan University!
-- [2023.02] A new patent was submitted!
 - [2023.02] A new paper was submitted to Information Fusion! (中科院一区SCI)
 - [2022.12] A new project funding was obtained!
 - [2022.11] A new project funding was obtained!
@@ -15,9 +21,9 @@ Email: tangchuan@uestc.edu.cn
 - [2022.06] A new paper was accepted by Remote Sensing!
 
 ## RESEARCH INTERESTS
+- Computer Vision for Remote Sensing
+- Explainable Neural Networks
 - Federated Learning and Privacy Protection
-- Machine Leaning Theory and Explainability
-- Computer Vision and Deep Learning
 - Remote Sensing and Geographic Information Systems
 
 ## SELECTED PUBLICATIONS
