@@ -7,7 +7,7 @@ Xiaochuan Tang is an Associate Professor at College of Computer Science, State K
 
 ## RECENT NEWS
 - [2024.05] A new paper was submitted to IEEE Transactions on Geoscience and Remote Sensing! (中科院一区SCI)
-- [2024.04] A newnew patent were submitted!
+- [2024.04] A new patent were submitted!
 - [2024.04] A new paper was submitted to Applied Soft Computing! (中科院一区SCI)
 - [2024.03] A new paper was submitted to EGU 2024
 - [2024.02] A new paper was submitted to IEEE Geoscience and Remote Sensing Letters!
