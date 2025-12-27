@@ -1,5 +1,5 @@
 ## PROFILE
-**Dr. Xiaochuan Tang** is an Associate Professor and **Ph.D. Supervisor** of the **State Key Laboratory of Geohazard Prevention and Geoenvironment Protection**, at Chengdu University of Technology, China. He is a Senior Member of the China Computer Federation (CCF) and a member of IEEE, ACM, and CAAI. He serves as a Visiting Professor in Engineering Geology at the University of Padova, Italy, and as an Adjunct Associate Professor at the Yangtze River Delta Research Institute of the University of Electronic Science and Technology of China (UESTC). He currently holds the positions of Head of the Expert Service Group of the Chengdu Association for Science and Technology, Council Member of the Sichuan Youth Association for Science and Technology‌ (SYAST), and Expert Advisor to the SiChuan Scientific Collaborative Innovation Promoting Association‌ (SSCIPA). He received his Ph.D. degree from UESTC in 2018. In 2019, he conducted postdoctoral research at the State Key Laboratory of Wireless Communications, and subsequently joined the State Key Laboratory of Geohazard Prevention and Geoenvironment Protection.
+**Dr. Xiaochuan Tang** is an *Associate Professor* and *Ph.D. Supervisor* of the **State Key Laboratory of Geohazard Prevention and Geoenvironment Protection**, at Chengdu University of Technology, China. He is a Senior Member of the China Computer Federation (CCF) and a member of IEEE, ACM, and CAAI. He serves as a Visiting Professor in Engineering Geology at the University of Padova, Italy, and as an Adjunct Associate Professor at the Yangtze River Delta Research Institute of the University of Electronic Science and Technology of China (UESTC). He currently holds the positions of Head of the Expert Service Group of the Chengdu Association for Science and Technology, Council Member of the Sichuan Youth Association for Science and Technology‌ (SYAST), and Expert Advisor to the SiChuan Scientific Collaborative Innovation Promoting Association‌ (SSCIPA). He received his Ph.D. degree from UESTC in 2018. In 2019, he conducted postdoctoral research at the State Key Laboratory of Wireless Communications, and subsequently joined the State Key Laboratory of Geohazard Prevention and Geoenvironment Protection.
 
 He has long been engaged in research on trustworthy artificial intelligence theories and their applications in geohazard prevention and mitigation. His main research interests include explainable artificial intelligence, deep learning for time series, federated learning, intelligent detection and early warning of landslides, and robotic systems for geohazard prevention and mitigation.
 
@@ -13,8 +13,8 @@ He has been invited to deliver nearly 20 academic talks at institutions and conf
 
 ## CONTACT
 **We are seeking Postdoc Researchers and PhD students in Artificial Intelligence, Engineering Geology, and Remote Sensing.**
-**- Email: tangchuan@uestc.edu.cn**
-**- LinkedIn: Xiaochuan Tang**
+- **Email: tangchuan@uestc.edu.cn**
+- **LinkedIn: Xiaochuan Tang**
 
 ## RECENT NEWS
 - [2025.12] A new project has been funded!
