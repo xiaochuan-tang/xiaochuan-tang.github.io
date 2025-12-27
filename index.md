@@ -49,13 +49,13 @@ He has been invited to deliver nearly 20 academic talks at institutions and conf
 - Robotic Systems for Geohazard Prevention and Mitigation
 
 ## SELECTED PUBLICATIONS
-- Xiaochuan Tang, Zhong Lu, Xuanmei Fan, Xiaochuang Yan, Xiaojun Yuan, Dongfen Li, Huailiang Li, Hongjun Li, Sansar Raj Meena, Alessandro Novellino, Lorenzo Nava, Filippo Catani. Mamba for landslide detection: A lightweight model for mapping landslides with very high-resolution images[J], IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5637117. (中科院一区SCI)
-- Xiaochuan Tang, Tao Lan, Fan Du, Dongfen Li, Hao Zhong, Yanmei Hu, Biao Cai, Hongjun Li. Promoting data sharing diffusion in the automotive industry: An evolutionary game model on complex networks[J]. Expert Systems with Applications, 2025: 127992. (中科院一区SCI)
-- Xiaochuan Tang, Tao Lan, Hao Zhong, Dongfen Li, Qiang Miao. An evolutionary game model for indirect data sharing in manufacturing big data consortium[J]. Expert Systems with Applications, 2024, 255: 124807. (中科院一区SCI)
-- Xiaochuan Tang, Yu Wang, Xin Liu, Xiaojun Yuan, Chao Fan, Yanmei Hu, Qiang Miao. Federated graph neural network for privacy-preserved supply chain data sharing[J]. Applied Soft Computing, 2024: 112475. (中科院一区SCI)
-- Wang, Fang, Tang, et al. Research on emergency evaluation of landslides induced by Luding Ms 6.8 earthquake[J]. 武汉大学学报 (信息科学版), 2022. (中科协高质量期刊)
-- Tang X, Tu Z, Wang Y, et al. Automatic detection of coseismic landslides using a new transformer method[J]. Remote Sensing, 2022, 14(12): 2884. (中科院二区SCI，TOP期刊)
-- Chen, Dai, Tang, et al. Removing InSAR topography-dependent atmospheric effect based on deep learning. Remote Sensing, 2022, 14(17): 4171. (中科院二区SCI，TOP期刊)
+- Tang et al. Mamba for landslide detection: A lightweight model for mapping landslides with very high-resolution images[J], IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5637117. (中科院一区SCI)
+- Tang et al. Promoting data sharing diffusion in the automotive industry: An evolutionary game model on complex networks[J]. Expert Systems with Applications, 2025: 127992. (中科院一区SCI)
+- Tang et al. An evolutionary game model for indirect data sharing in manufacturing big data consortium[J]. Expert Systems with Applications, 2024, 255: 124807. (中科院一区SCI)
+- Tang et al. Federated graph neural network for privacy-preserved supply chain data sharing[J]. Applied Soft Computing, 2024: 112475. (中科院一区SCI)
+- Tang et al. Research on emergency evaluation of landslides induced by Luding Ms 6.8 earthquake[J]. 武汉大学学报 (信息科学版), 2022. (中科协高质量期刊)
+- Tang et al. Automatic detection of coseismic landslides using a new transformer method[J]. Remote Sensing, 2022, 14(12): 2884. (中科院二区SCI，TOP期刊)
+- Tang et al. Removing InSAR topography-dependent atmospheric effect based on deep learning. Remote Sensing, 2022, 14(17): 4171. (中科院二区SCI，TOP期刊)
 - Tang et al. MILL: Channel attention based deep multiple instance learning for landslide recognition. ACM Transactions on Multimedia Computing， Communications and Applications, 2021, 17(2s): 76. (CCF-B类期刊)
 - Tang et al. Feature selection based on feature interactions with application to text categorization. Expert Systems with Applications, 2019, 120: 207-216. (中科院一区SCI)
 - Tang et al. Interaction-based feature selection using Factorial Design. Neurocomputing, 2018, 281: 47-54. (中科院二区SCI)
