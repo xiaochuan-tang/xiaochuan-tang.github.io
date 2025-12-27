@@ -12,7 +12,7 @@ He serves as a reviewer for more than 10 leading SCI journals, including IEEE Tr
 He has been invited to deliver nearly 20 academic talks at institutions and conferences worldwide, including Newcastle University, Nanchang University, the General Assembly of the European Geosciences Union (EGU), and the IEEE International Geoscience and Remote Sensing Symposium (IEEE IGARSS). He has established long-term and stable international collaborations with the University of Padova, National Research Council of Italy (CNR), British Geological Survey (BGS), Durham University, University of Bath, University of Melbourne,  University of Cape Town, etc.
 
 ## CONTACT
-**We are seeking Postdoc Researchers and PhD students in Artificial Intelligence, Engineering Geology, and Remote Sensing.**
+**We are seeking highly motivated Postdoc Researchers and PhD students in the field of Artificial Intelligence, Engineering Geology, and Remote Sensing.** Please contact:
 - **Email: tangchuan@uestc.edu.cn**
 - **LinkedIn: Xiaochuan Tang**
 
