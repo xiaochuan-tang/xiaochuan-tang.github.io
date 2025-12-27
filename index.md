@@ -20,10 +20,10 @@ He has been invited to deliver nearly 20 academic talks at institutions and conf
 - [2025.12] A new project has been funded!
 - [2025.12] Two patents has been issued!
 - [2025.10] A new paper was submitted to ESWA! (中科院一区SCI)
-- [2025.8] A new paper was submitted to JGR! 
+- [2025.08] A new paper was submitted to JGR! 
 - [2025.07] A new paper has been accepted by IEEE TGRS! (中科院一区SCI)
-- [2025.6] A new paper was submitted to GRL! 
-- [2025.4] A new paper was submitted to EG! 
+- [2025.06] A new paper was submitted to GRL! 
+- [2025.04] A new paper was submitted to EG! 
 - [2025.03] A new paper has been accepted by ESWA! (中科院一区SCI)
 - [2024.09] A new paper was submitted to IEEE TGRS! (中科院一区SCI)
 - [2024.08] A new paper has been accepted by IEEE GRSL!
